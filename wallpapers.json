@@ -1,20 +1,13 @@
 {
-  "Collections": [
-    {
-      "name": "Landscapes",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
-    }
-  ],
-  "Wallpapers": [
-    {
-      "downloadable": true,
-      "name": "Wallsplash 8",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "food"
-    }
-  ]
+"Wallpapers": [
+  {
+    "downloadable": true,
+    "name": "Wallsplash 8",
+    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "food"
+  }
+]
 }
