@@ -1,13 +1,11 @@
 {
 "Wallpapers": [
-  {
-    "downloadable": true,
-    "name": "Wallsplash 8",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "food"
-  }
+{
+  "name": "wall of house",
+  "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+  "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
+  "downloadable": true,
+  "dimensions": "3200x2560",
+}
 ]
 }
