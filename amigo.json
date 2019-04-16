@@ -1,7 +1,9 @@
-{"enb_go_ad":"false",
+[{
+"enb_go_ad":"false",
 "enb_ban_ad":"true",
 "enb_intr_ad":"true",
 "enb_intr_ad_T":"4",
 "go_ad_mob_ban":"ca-app-pub-4441454566241853/9859504267",
 "go_ad_mob_inte":"ca-app-pub-4441454566241853/9831584103",
-"go_ad_mob_rew":"ca-app-pub-4441454566241853/9256869036"}
+"go_ad_mob_rew":"ca-app-pub-4441454566241853/9256869036"
+}]
