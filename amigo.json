@@ -2,7 +2,7 @@
 "Enable_Default_Ad":"false",
 "Enable_Banner_Ad":"true",
 "Enable_Interstitial_Ad":"true",
-"Ad_Refresh_T":"4",
+"Ad_Refresh_T":"8",
 "Banner_Ad_id":"ca-app-pub-4441454566241853/9859504267",
 "Interstitial_Ad_id":"ca-app-pub-4441454566241853/9831584103",
 "Reward_Ad_id":"ca-app-pub-4441454566241853/9256869036"
