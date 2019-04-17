@@ -4,7 +4,7 @@
 "Enable_Unity_Ad":"false",
 "Enable_Banner_Ad":"true",
 "Enable_Interstitial_Ad":"true",
-"Ad_Refresh_T":"4",
+"Ad_Refresh_T":"15",
 "Google_Banner_Ad_id":"ca-app-pub-4441454566241853/9859504267",
 "Google_Interstitial_Ad_id":"ca-app-pub-4441454566241853/9831584103",
 "-Google_Banner_Ad_id":"ca-app-pub-3940256099942544/6300978111",
