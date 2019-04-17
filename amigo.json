@@ -1,5 +1,7 @@
 [{
-"Enable_Default_Ad":"true",
+"Enable_Google_Ad":"false",
+"Enable_Applovin_Ad":"true",
+"Enable_Unity_Ad":"false",
 "Enable_Banner_Ad":"true",
 "Enable_Interstitial_Ad":"true",
 "Ad_Refresh_T":"8",
