@@ -1,9 +1,9 @@
 [{
 "Enable_Google_Ad":"false",
-"Enable_Applovin_Ad":"false",
+"Enable_Applovin_Ad":"true",
 "Enable_Unity_Ad":"false",
 "Enable_Banner_Ad":"false",
-"Enable_Interstitial_Ad":"false",
+"Enable_Interstitial_Ad":"true",
 "Ad_Refresh_T":"15",
 "App_Version_Code":"21",
 "App_Version_2":"24",
